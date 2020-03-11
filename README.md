@@ -10,6 +10,8 @@ To take a photo all you have to do is let the application access your webcam and
 - HTML 
 - CSS
 - JS
+
+# Overview
 The HTML and CSS on this were no problem but figuring out the JavaScript component of the project was a little more difficult. I didn't do any work for making it responsive, as I figured it'd be a webapp solely. 
 
 # Author
